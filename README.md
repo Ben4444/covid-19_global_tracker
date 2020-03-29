@@ -6,3 +6,5 @@ Lots of room for improvement here, but figured this was a decent start. Main thi
 * Fill in missing country data
 * Fix background coloring
 * Add in some smoother/better transition effects
+
+Feel free to edit as you see fit.
